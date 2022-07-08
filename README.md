@@ -1,7 +1,7 @@
 # Annotation Tool
 Fast and efficient BBox annotation 
 
-![Sample](img_sc.png)
+![Sample](./assets/img_sc.png)
 
 ## USAGE
 1. Download the zip.
