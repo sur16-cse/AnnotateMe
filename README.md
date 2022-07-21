@@ -1,4 +1,4 @@
-# Annotation Tool
+# AnnotateMe
 Fast and efficient BBox annotation 
 
 ![Sample](./assets/img_sc.png)
